@@ -1,4 +1,4 @@
-# library-not-tree-shakeable [#TODO]()
+# library-not-tree-shakeable [#13087](https://github.com/vitejs/vite/issues/13087)
 
 Library whose components use `defineComponent` not tree shakeable
 
